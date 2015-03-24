@@ -1,0 +1,1 @@
+# parallaxslider-rails
