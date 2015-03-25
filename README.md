@@ -52,7 +52,7 @@ http://tympanus.net/codrops/2012/03/15/parallax-content-slider-with-css3-and-jqu
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/parallaxslider-rails/fork )
+1. Fork it ( https://github.com/twoweb/parallaxslider-rails/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
